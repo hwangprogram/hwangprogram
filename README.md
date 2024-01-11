@@ -1,9 +1,12 @@
-[![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=Hwang%20program)](https://capsule-render.vercel.app/api?type=rounded&height=300&color=timeAuto&text=Jun%20Grammer&descAlign=50&descAlignY=50&fontAlign=50&section=header&reversal=false&textBg=false&animation=twinkling&fontColor=3FB33F&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&text=Hwang%20program&fontColor=FFD700&fontSize=50&animation=twinkling)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangprogram&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+
+---
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dmg05135})](https://solved.ac/{handle})
-<img src="https://img.shields.io/badge/#3776AB?style=flat-square&logo=simpleicons_로고_이름&logoColor=white"/>
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dmg05135)](https://solved.ac/{handle}) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmg05135&theme=dark)
 
 <!--
 **hwangprogram/hwangprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
