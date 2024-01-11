@@ -37,7 +37,8 @@
 <div align = 'center'>
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dmg05135)](https://solved.ac/{handle}) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmg05135&theme=dark)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=dmg05135)](https://solved.ac/{handle}) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmg05135&theme=dark)
 
 <!--
 **hwangprogram/hwangprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
