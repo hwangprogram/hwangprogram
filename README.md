@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Hwangprogram)](https://capsule-render.vercel.app/api?type=rounded&height=300&color=timeAuto&text=Jun%20Grammer&descAlign=50&descAlignY=50&fontAlign=50&section=header&reversal=false&textBg=false&animation=twinkling&fontColor=3FB33F&fontSize=100)
+[![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&text=Hwang%20program)](https://capsule-render.vercel.app/api?type=rounded&height=300&color=timeAuto&text=Jun%20Grammer&descAlign=50&descAlignY=50&fontAlign=50&section=header&reversal=false&textBg=false&animation=twinkling&fontColor=3FB33F&fontSize=100)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangprogram&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
