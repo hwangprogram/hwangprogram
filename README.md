@@ -5,7 +5,22 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangprogram&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ### :honeybee: Jun :honeybee:  
-![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangprogram&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="mailto:dmg05135@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmg05135@gmail.com"/></a>
+<a href="https://juncode0001.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-FF8C00?style=flat-square&logo=Tistory&logoColor=white"/> 
+</a>  
+<a href="https://www.instagram.com/24k__6?igsh=MnJzYm9qaHpoc2o4&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+</a> 
+ <a href="https://www.instagram.com/24k__6?igsh=MnJzYm9qaHpoc2o4&utm_source=qr">
+  <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white"/>
+</a>
+
+
+
+
 
 ---
 
