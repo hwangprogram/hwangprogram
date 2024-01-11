@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&text=Hwang%20program&fontColor=FFD700&fontSize=50&animation=twinkling)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangprogram&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&text=Hwang%20Jun&fontColor=FFD700&fontSize=50&animation=twinkling)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangprogram&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ---
 
