@@ -8,8 +8,8 @@
 <a href="https://github.com/hwangprogram"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangprogram&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/></a>
 <a href="mailto:dmg05135@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dmg05135@gmail.com"/></a>
-<a href="https://juncode0001.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-FF8C00?style=flat-square&logo=Tistory&logoColor=white"/> 
+<a href="https://velog.io/@hwangprogram/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> 
 </a>  
 <a href="https://www.facebook.com/profile.php?id=100005005771839&mibextid=LQQJ4d">
   <img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=Facebook&logoColor=white"/>
