@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&text=Hwang%20Jun&fontColor=FFD700&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=000000&text=Jun&fontColor=FFD700&fontSize=70&animation=twinkling)
 
 ---
 
