@@ -27,12 +27,14 @@
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>  
 <img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 
-<div align='center'>
+<div>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangprogram&layout=compact&theme=onedark)
+  
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwangprogram&show_icons=true&theme=onedark)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangprogram&layout=compact&theme=onedark)
 
- 
 
 ---
 
@@ -41,6 +43,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dmg05135)](https://solved.ac/{handle}) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmg05135&theme=dark)
+
+</div>
 
 <!--
 **hwangprogram/hwangprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
