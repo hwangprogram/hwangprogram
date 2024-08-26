@@ -45,8 +45,7 @@
 
 <div align = 'center'>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dmg05135)](https://solved.ac/{handle}) 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dmg05135)](https://solved.ac/{handle}) 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dmg05135&theme=dark)
 
 </div>
