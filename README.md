@@ -7,18 +7,18 @@
 <div align='center'>
 
 ### :honeybee: About Me :honeybee:
-<div>
-  <div href="https://github.com/hwangprogram">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangprogram&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false"/>
+<div style="display: flex; gap: 10px;">
+  <div href="https://github.com/hwangprogram" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangprogram&count_bg=%23181717&title_bg=%23181717&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false" alt="GitHub"/>
   </div>
-  <a href="mailto:dmg05135@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:dmg05135@gmail.com" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100005005771839&mibextid=LQQJ4d">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-  </a> 
-  <a href="https://www.instagram.com/24k__6?igsh=MnJzYm9qaHpoc2o4&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+  <a href="https://www.facebook.com/profile.php?id=100005005771839&mibextid=LQQJ4d" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/24k__6?igsh=MnJzYm9qaHpoc2o4&utm_source=qr" target="_blank" style="text-decoration: none; display: inline-block;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
