@@ -11,20 +11,6 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/hwangprogram" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:dmg05135@gmail.com" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100005005771839&mibextid=LQQJ4d" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/24k__6?igsh=MnJzYm9qaHpoc2o4&utm_source=qr" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
 
 ---
 
