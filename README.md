@@ -9,7 +9,7 @@
 ### :honeybee: About Me :honeybee:
 <div style="display: flex; gap: 10px;">
   <a href="https://github.com/hwangprogram" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://img.shields.io/badge/Github?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:dmg05135@gmail.com" style="text-decoration: none; display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
